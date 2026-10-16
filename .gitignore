@@ -11,3 +11,4 @@ tmp/
 .pytest_cache/
 .cache/
 *.tmp
+Thumbs.db
